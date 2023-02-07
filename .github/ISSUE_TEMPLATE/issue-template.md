@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: Issue Template
 about: Use Story Issue
 title: ''
 labels: ''
@@ -15,6 +15,8 @@ labels: 'programing,preparation ou visual'
 assigned: ''
 
 ---
+**User Story**
+
 
 **Priorité :**
 Donner le numéro sur l'échelle de Fibonacci (en comparant la valeur des autres tâches) et justifier le choix de la valeur.
